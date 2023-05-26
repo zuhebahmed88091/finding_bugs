@@ -7,10 +7,6 @@ function showMenu() {
   hambarSection.style.display = 'block';
 }
 
-function hideMenu() {
-  hambarSection.style.display = 'none';
-}
-
 hambarButton.addEventListener('click', showMenu);
 closeButton.addEventListener('click', hideMenu);
 const featuredSpeakers = [
