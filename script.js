@@ -13,7 +13,6 @@ const featuredSpeakers = [
   {
     speakerImg: './properties/speaker_1.svg',
     speakerName: 'Yochai Benkler',
-    designition: 'Professor',
     achievement: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis.',
   },
   {
